@@ -21,7 +21,7 @@ A reproducible dataset and analysis of what Cisco puts on the agenda at Cisco Li
 | `cl2026_sessions.json` | US 2026 (Las Vegas) sessions |
 | `cisco_live_ai_trend.png` | The chart above |
 
-Each record holds factual metadata only: session code, title, type, length, tracks, technical level, technologies, speaker names/companies/roles, and (for live events) schedule. Long-form abstracts and speaker bios are **not** redistributed here; `fetch.py` will pull them on demand if you want them locally.
+Each record holds factual metadata only: session code, title, type, length, tracks, technical level, technologies, speaker names/companies/roles, and (for live events) schedule. Long-form abstracts and speaker bios are **not** redistributed here; 
 
 ## Record schema
 
